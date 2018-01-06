@@ -1,0 +1,16 @@
+.content{
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding-top:10px;
+}
+
+.innerContent{
+    display: flex;
+}
+
+.img1{
+    width:100px;
+    height:200px;
+}
+
