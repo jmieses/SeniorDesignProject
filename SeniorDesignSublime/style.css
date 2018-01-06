@@ -1,0 +1,25 @@
+.content{
+max-width:800px;
+margin:auto;
+padding-top:10px;
+background-color:white;
+}
+.innerContent{
+display: flex;
+flex-direction:row;
+background-color: white;
+}
+.innerContent>div{
+padding-left:60px;
+}
+
+img {
+	width:100px;
+	max-width:100%;
+	height:auto;
+}
+
+footer{
+	padding-top:300px;
+	text-align:center;
+}
